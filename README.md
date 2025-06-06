@@ -2,6 +2,7 @@
 
 ## 🌌 What is Galactic Dodger?
 Galactic Dodger is a thrilling arcade game where you control a rocket navigating through an asteroid field. Your mission is to dodge incoming obstacles and survive as long as possible! The challenge intensifies as the game progresses, making it a fun and addictive experience.
+<img src="Images/images.jpg" width="300"/>
 
 ## 🎮 How Does It Work?
 - A **10x20 LED Matrix** displays the game interface.
